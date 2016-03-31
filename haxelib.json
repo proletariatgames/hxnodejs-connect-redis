@@ -1,0 +1,15 @@
+{
+  "name": "hxnodejs-connect-redis",
+  "url": "https://github.com/proletariatgames/hxnodejs-connect-redis",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["nodejs", "redis"],
+  "description": "Externs for the connect-redis NPM module",
+  "releasenote": "Initial release",
+  "version": "3.0.2",
+  "contributors": ["Proletariat", "lpetre", "danogles", "waneck"],
+  "dependencies": {
+    "hxnodejs": "",
+    "express": ""
+  }
+}
