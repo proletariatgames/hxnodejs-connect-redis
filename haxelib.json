@@ -6,7 +6,7 @@
   "tags": ["nodejs", "redis"],
   "description": "Externs for the connect-redis NPM module",
   "releasenote": "Initial release",
-  "version": "3.0.2",
+  "version": "3.0.0-alpha",
   "contributors": ["Proletariat", "lpetre", "danogles", "waneck"],
   "dependencies": {
     "hxnodejs": "",
