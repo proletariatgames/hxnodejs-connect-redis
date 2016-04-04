@@ -3,7 +3,7 @@
   "url": "https://github.com/proletariatgames/hxnodejs-connect-redis",
   "license": "MIT",
   "classPath": "src",
-  "tags": ["nodejs", "redis"],
+  "tags": ["nodejs", "hxnodejs", "redis"],
   "description": "Externs for the connect-redis NPM module",
   "releasenote": "Initial release",
   "version": "3.0.0-alpha",
